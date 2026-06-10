@@ -5,6 +5,10 @@ title: "Paid inquiry: resale listing and price research pack"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Prefilled inquiry page: https://jaxassistant55.github.io/resale-listing-research-starter/inquiry.html
+
 ## Buyer Request
 
 - Item category:
