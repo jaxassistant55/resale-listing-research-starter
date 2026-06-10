@@ -6,6 +6,7 @@ This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/resale-listing-and-price-research-pack.html
 - Live free preview: https://jaxassistant55.github.io/resale-listing-research-starter/demo/
+- Repo order board: https://github.com/jaxassistant55/resale-listing-research-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/resale-listing-draft-builder.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/14
 - Price: $100
